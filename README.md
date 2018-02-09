@@ -1,2 +1,1 @@
 # shdd
-ios game
